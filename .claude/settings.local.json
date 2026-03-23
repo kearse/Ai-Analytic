@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(dir \"C:\\\\Analytics Project\")",
-      "WebFetch(domain:developers.google.com)"
-    ]
-  }
-}
